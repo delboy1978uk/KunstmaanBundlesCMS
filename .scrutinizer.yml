@@ -4,6 +4,9 @@ checks:
     php:
         code_rating: true
         duplication: true
+   javascript:
+        code_rating: false
+        duplication: false
 filter:
     paths:
         - src/*
