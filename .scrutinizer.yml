@@ -6,7 +6,6 @@ checks:
         duplication: true
     javascript:
         code_rating: false
-        duplication: false
 filter:
     paths:
         - src/*
